@@ -1,3 +1,6 @@
+https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
